@@ -4,5 +4,5 @@ Hey 👋 Je suis **Bleu**, une personne passionné par l'informatique sur la rel
 
 Ah oui juste, merci de ne jamais me parler de **FRONTEND**, je déteste ça ! 😭 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Bleu-No&show_icons=true&theme=dark&count_private=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bleu-No&layout=compact&theme=dark&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Bleu-No&show_icons=true&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bleu-No&layout=compact&theme=dark"/>
