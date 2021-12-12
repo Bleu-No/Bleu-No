@@ -55,9 +55,7 @@ Bleu#7728
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=Bleu-No)](https://github.com/Bleu-No)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Bleu-No.Bleu-No)](https://github.com/Bleu-No)
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bleu-No&show_icons=true&theme=dark"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bleu-No&layout=compact&theme=dark"/>
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Bleu-No.Bleu-No)](https://github.com/Bleu-No)
