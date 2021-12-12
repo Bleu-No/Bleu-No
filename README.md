@@ -11,7 +11,7 @@ J'adore l'informatique depuis mon plus jeune âge ! Surtout la relation Client -
 
 ### 🤝 Pour me contacter:
 
-<a href="https://discord.com"><img align="left" src="https://e7.pngegg.com/pngimages/842/992/png-clipart-discord-computer-servers-teamspeak-discord-icon-video-game-smiley.png" alt="BleuNo" width="21px"/></a>
+<a href="https://discord.com"><img align="left" src="https://w7.pngwing.com/pngs/960/994/png-transparent-discord-computer-icons-android-online-chat-world-wide-web-blue-angle-rectangle.png" alt="BleuNo" width="30px" style="vertical-align: middle;width: 50px;height: 50px;border-radius: 50%;" /></a>
 Bleu#7728
 </br>
 - 💬 Si vous avez des questions ou des commentaires, n'hésitez pas à m'en faire part !
