@@ -1,17 +1,24 @@
-<h1>Hey! Je suis BleuNo et j'ai 16 ans, je suis français !</h1>
+<h3 align="center">
+Hey! Je suis BleuNo 👋
+</h3>
 
-Je suis passionné d'informatique depuis mon plus jeune âge et mon domaine préféré c'est le web ( client - serveur ). ❤️
-Si tu veux venir discuter avec moi se sera avec grand plaisir ! Pour ce faire tu as juste besoin de m'ajouter sur Discord. 😋 ( Bleu#7728 )
+<h2 align="center">
+Je suis un développeur Web 💻, plus précisément dans le BackEnd!
+</h2> 
 
-Par contre, je n'aime pas vraiment le Frontend ce n'est vraiment pas mon truc 😖, je préfère le BackEnd !
-J'apprends actuellement le C++ et le C# pour un peu décroché sur Web. Mais ce n'est pas très simple...
+J'adore l'informatique depuis mon plus jeune âge ! Surtout la relation Client - Serveur. Après j'apprends actuellement le C++ et le C# ( je tien bons 😅 ).
 
-###<p align="center">Merci &nbsp;❤️</p>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Bleu-No/count.svg" />
-</p>
-###
+
+### 🤝 Pour me contacter:
+
+<a href="https://discord.com"><img align="left" src="https://e7.pngegg.com/pngimages/842/992/png-clipart-discord-computer-servers-teamspeak-discord-icon-video-game-smiley.png" alt="BleuNo" width="21px"/></a>
+Bleu#7728
+</br>
+- 💬 Si vous avez des questions ou des commentaires, n'hésitez pas à m'en faire part !
+
+## 🔭 Si je suis actuellement au lycée et je travaille actuellement sur
+
+- Discord Bot DashBoard
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bleu-No&show_icons=true&theme=dark"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bleu-No&layout=compact&theme=dark"/>
