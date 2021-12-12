@@ -1,3 +1,11 @@
+<style>
+.avatar {
+border-radius: 50%;
+height: 64px;
+width: 64px;
+}
+ </style>
+
 <h3 align="center">
 Hey! Je suis BleuNo 👋
 </h3>
@@ -11,7 +19,7 @@ J'adore l'informatique depuis mon plus jeune âge ! Surtout la relation Client -
 
 ### 🤝 Pour me contacter:
 
-<a href="https://discord.com"><img align="left" src="https://w7.pngwing.com/pngs/960/994/png-transparent-discord-computer-icons-android-online-chat-world-wide-web-blue-angle-rectangle.png" alt="Avatar" width="30px" style="width: 50px;height: 50px;border-radius: 50%;" /></a>
+<a href="https://discord.com"><img align="left" src="https://w7.pngwing.com/pngs/960/994/png-transparent-discord-computer-icons-android-online-chat-world-wide-web-blue-angle-rectangle.png" alt="BleuNo" width="30px" class="avatar" /></a>
 Bleu#7728
 </br>
 - 💬 Si vous avez des questions ou des commentaires, n'hésitez pas à m'en faire part !
