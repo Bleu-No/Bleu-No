@@ -18,7 +18,8 @@ Bleu#7728
 
 ## 🔭 Si je suis actuellement au lycée et je travaille actuellement sur
 
-- Discord Bot DashBoard
+- Python ByteCode
+- Dumps Pyarmor
 
 ## 🌱 Je suis en train d'apprendre
 
