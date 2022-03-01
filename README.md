@@ -3,11 +3,10 @@ Hey! Je suis BleuNo 👋
 </h3>
 
 <h2 align="center">
-Je suis un développeur Web 💻, plus précisément dans le BackEnd!
+Je suis un développeur 💻
 </h2> 
 
-J'adore l'informatique depuis mon plus jeune âge ! Surtout la relation Client - Serveur. Après j'apprends actuellement le C++ et le C# ( je tien bons 😅 ).
-
+J'adore l'informatique depuis mon plus jeune âge ! Surtout la relation Client - Serveur ou bien le Reverse Engineering. Après j'apprends actuellement le C++ ( je tien bons 😅 ).
 
 ### 🤝 Pour me contacter:
 
@@ -16,34 +15,23 @@ Bleu#7728
 </br>
 - 💬 Si vous avez des questions ou des commentaires, n'hésitez pas à m'en faire part !
 
-## 🔭 Si je suis actuellement au lycée et je travaille actuellement sur
+## 🔭 Je suis actuellement au lycée et je travaille sur ces projets
 
-- Python ByteCode
-- Dumps Pyarmor
+- Deobfuscate Pyarmor
+- Discord Espion
 
 ## 🌱 Je suis en train d'apprendre
 
-- 📱 React JS
-- 😌 Webpack
 - 😭 C++
-- 🤔 C#
 
 ## 💼 Mes Compétences 
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=0074C2)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&color=2C5593)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=68217A)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
-
 
 </br>
 
