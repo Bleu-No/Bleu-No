@@ -13,10 +13,10 @@
        #########      #########       │
       ##########      ##########      │
      ###########      ###########     ├── En cours:
-    ##########          ##########    │   ├── GoodBye Discord
-   #######                  #######   │   ├── Minecraft Blue Client
-  ####                          ####  │   ├── End of Minecraft
- ###                              ###
+    ##########          ##########    │   ├── GoodBye Discord ( 10% )
+   #######                  #######   │   ├── Minecraft Blue Client ( 5% )
+  ####                          ####  │   ├── End of Minecraft ( 0% )
+ ###                              ### │   ├── Pyarmor DeObfuscate ( 80% )
  
 ```
 
